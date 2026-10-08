@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Alen
 
-<!--
-**Alen-hjm/Alen-hjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge)
+![Desktop Apps](https://img.shields.io/badge/Desktop_Apps-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-059669?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack-EA580C?style=for-the-badge)
 
-Here are some ideas to get you started:
+I turn **“Could this be simpler?”** into projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests span **AI desktop assistants, recruitment tools, and
+retrieval-augmented generation (RAG)**. I enjoy connecting AI with
+everyday workflows and turning rough ideas into tools people can try.
+
+For me, a working prototype is the beginning of a conversation:
+build it, learn what matters, and make the next version better.
+
+🔨 Currently exploring ideas through **Zhuozhi Desktop Bot** and **JiaLie-RAG**.
+
+💬 Open to exchanging ideas, comparing notes, and building something useful together.
+
+**A little curiosity. A working prototype. One more commit.**
